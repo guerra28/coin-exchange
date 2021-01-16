@@ -14,7 +14,7 @@
           <td class="white--text">
             <v-text-field
               full-width
-              placeholder="Placeholder"
+              placeholder="Buscar"
               solo
               class="mt-8"
               v-model="filter"
