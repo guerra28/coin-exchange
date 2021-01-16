@@ -114,6 +114,6 @@ export default {
 </script>
 <style scoped>
 thead {
-  background-color: #bdbdbd;
+  background-color: #cfd8dc;
 }
 </style>
